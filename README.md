@@ -22,7 +22,7 @@ This project is a **Customer Analysis Dashboard** created using **Power BI**. Th
    The total profit generated from the sales.  
    **Importance**: Profit is a key indicator of the business's efficiency and sustainability. It allows the company to evaluate the return on investment and manage costs effectively.
 
-- **Average Delivery Time**:  
+- **Average Delivery Time(Day)**:  
    Shows the average time taken for delivering the products.  
    **Importance**: Measuring delivery times is essential for assessing customer satisfaction and operational efficiency. Faster delivery times can lead to higher customer retention and better service ratings.
 
