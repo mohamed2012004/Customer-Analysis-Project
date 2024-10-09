@@ -94,4 +94,4 @@ This project is a **Customer Analysis Dashboard** created using **Power BI**. Th
 
 Feel free to reach out if you have any questions or suggestions!  
 You can find me at:  
-[LinkedIn Profile](<www.linkedin.com/in/mohamed-nasr-mohamed>)  
+[LinkedIn Profile](www.linkedin.com/in/mohamed-nasr-mohamed)  
